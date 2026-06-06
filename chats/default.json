@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "hii"
+  },
+  {
+    "role": "ai",
+    "content": "Hi there! How's your day going so far? 😊 \n\nWhat can I do for you today? Do you have any questions, or would you like to chat about something?"
+  },
+  {
+    "role": "user",
+    "content": "my name is bhawesh"
+  },
+  {
+    "role": "ai",
+    "content": "Hey Bhaanesh! It’s nice to meet ya! 😄 Back here and ready to help out. What's on your mind today – want to talk trivia, maybe brainstorm a plan for your day, or just... well, chat? 😊"
+  },
+  {
+    "role": "user",
+    "content": "what is my name"
+  },
+  {
+    "role": "ai",
+    "content": "Your name is Bhaanesh! 🎉 Glad I knew it. 😄"
+  },
+  {
+    "role": "user",
+    "content": "speeling is wrong ,my name is bhawesh."
+  },
+  {
+    "role": "ai",
+    "content": "Okay, no problem there! 😊 Perfectly correct – spelling matters. 𝐁𝒉𝟐𝐬𝐞̃ is a great way to remember you! 👍 😊 Let me know if anything else I can help with later. 😊 What would you like to do? 🤔\n"
+  },
+  {
+    "role": "user",
+    "content": "my name is Bhawesh.got it"
+  },
+  {
+    "role": "ai",
+    "content": "Perfectly fine, Bhaanesh! It’s nice to meet you again. 😊 Is there *anything* I could do for you today?"
+  },
+  {
+    "role": "user",
+    "content": "what is my name"
+  },
+  {
+    "role": "ai",
+    "content": "Okay Bhaveanesh, your name is Bhawesh! 😄 How can I help you with something related to that?"
+  },
+  {
+    "role": "user",
+    "content": "hu"
+  },
+  {
+    "role": "ai",
+    "content": "Hulla? Looks like we’ve hit a stall! Let's see... You’re getting the hang of it pretty fast. 😊 😉  Need a little help breaking through? Give me a try - what are you working on or pondering today, Bhaanesh? 🤔"
+  }
+]

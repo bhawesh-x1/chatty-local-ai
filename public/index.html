@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chatty AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <div class="sidebar">
+
+    <h2>🤖 Chatty AI</h2>
+
+    <button class="new-chat">
+      + New Chat
+    </button>
+
+    <div id="chat-list">
+
+      <div class="chat-item active">
+        Default Chat
+      </div>
+
+    </div>
+
+    <div class="info">
+      Local AI <br>
+      Gemma 3 1B
+    </div>
+
+  </div>
+
+  <div class="main">
+
+    <div class="topbar">
+      Chatty AI Assistant
+    </div>
+
+    <div id="chat"></div>
+
+    <div class="input-area">
+
+      <input
+        id="message"
+        placeholder="Message Chatty AI..."
+      >
+
+      <button onclick="sendMessage()">
+        ➤
+      </button>
+
+    </div>
+
+  </div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
