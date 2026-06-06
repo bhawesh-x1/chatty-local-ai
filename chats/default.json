@@ -54,5 +54,21 @@
   {
     "role": "ai",
     "content": "Hulla? Looks like we’ve hit a stall! Let's see... You’re getting the hang of it pretty fast. 😊 😉  Need a little help breaking through? Give me a try - what are you working on or pondering today, Bhaanesh? 🤔"
+  },
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "ai",
+    "content": "Hi there! It looks like we haven't had our conversation yet, so let’s get back to basics. What is your name? 😊"
+  },
+  {
+    "role": "user",
+    "content": "you are my first mini project..."
+  },
+  {
+    "role": "ai",
+    "content": "Okay, that’s fantastic! Welcome, welcome! 😄 I’m thrilled you feel comfortable sharing a bit about yourself – even as just starting out. It’s wonderful that you're taking the initiative with this mini-project. 🌱 What kind of project are *you* thinking of undertaking? Don't worry if it seems big or small; we can start simple and gradually build up from there.  Tell me a little about what's on your mind! 🤗\n"
   }
 ]
